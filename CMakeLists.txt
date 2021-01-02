@@ -1051,6 +1051,7 @@ set(NETDISSECT_SOURCE_LIST_C
     print-rip.c
     print-ripng.c
     print-rpki-rtr.c
+    print-rpmsg.c
     print-rrcp.c
     print-rsvp.c
     print-rt6.c

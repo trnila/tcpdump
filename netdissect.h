@@ -518,6 +518,7 @@ extern void unsupported_if_print IF_PRINTER_ARGS;
 extern void usb_linux_48_byte_if_print IF_PRINTER_ARGS;
 extern void usb_linux_64_byte_if_print IF_PRINTER_ARGS;
 extern void vsock_if_print IF_PRINTER_ARGS;
+extern void rpmsg_if_print IF_PRINTER_ARGS;
 
 /*
  * Structure passed to some printers to allow them to print
